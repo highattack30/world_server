@@ -1,0 +1,11 @@
+#ifndef SERVER_ENUMS_H
+#define SERVER_ENUMS_H
+
+enum e_server_constants {
+	SERVER_MAX_PLAYERS = 5000,
+	SERVER_DEFAULT_PORT = 2017,
+	SERVER_MAX_THREAD_COUNT = 80,
+	SERVER_JOB_PULL_COUNT = 5,
+};
+
+#endif
