@@ -1,0 +1,29 @@
+﻿  world_server.cpp
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(45): warning C4002: too many actual parameters for macro 'MB_SHOW_ERROR'
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(306): warning C4244: '+=': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(397): warning C4244: 'argument': conversion from 'unsigned __int64' to 'long', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(460): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(491): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(494): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(497): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(508): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(509): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(510): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(511): warning C4244: 'argument': conversion from 'unsigned long' to 'short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(541): warning C4244: 'argument': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(542): warning C4244: 'argument': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\world_server.cpp(547): warning C4244: 'argument': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+  area.cpp
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\area.cpp(140): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\area.cpp(139): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'std::size_t'
+  c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\area.cpp(139): note: consider using '%zd' in the format string
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\area.cpp(178): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  Generating Code...
+  Compiling...
+  player.cpp
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\player.cpp(27): warning C4244: 'initializing': conversion from 'e_server_constants' to 'float', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\w_server_0\w_server_0\player.cpp(66): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+  main.cpp
+  Generating Code...
+  w_server_0.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\w_server_0\x64\Debug\w_server_0.exe
+  w_server_0.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\w_server_0\x64\Debug\w_server_0.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+server.active_thread_count=1
+server.arbiter_ip=192.168.0.45
+server.arbiter_port=2000
+server.area_file=data/stepstone_isle.bin
+
